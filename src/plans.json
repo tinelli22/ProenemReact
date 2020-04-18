@@ -1,0 +1,46 @@
+{
+    "plans": {
+      "enem2020plus": {
+        "title": "Enem 2020 Plus",
+        "access": "12 meses",
+        "essay": 2,
+        "class": "turma Enem extensivo 2020",
+        "exam": 4,
+        "liveClass": 20,
+        "projects": false,
+        "oldPrice": "411,80",
+        "newPrice": "19,90",
+        "buyLink": "https://proenem.com.br/planos/enem-2020-plus/contratar",
+        "postLink": "https://www.proenem.com.br/enem/curso-preparatorio-enem/",
+        "description": "Com o plano Enem 2020 Plus, você chega lá, um cursinho preparatório com 20 aulas ao vivo, redações corrigidas e comentadas, monitorias ilimitadas com resolução em vídeo, material didático completo online e muitos exercícios de fixação."
+      },
+      "medicina2020plus": {
+        "title": "Medicina 2020 Plus",
+        "access": "12 meses",
+        "essay": 3,
+        "class": "turma Medicina e Enem extensivo 2020",
+        "exam": 6,
+        "liveClass": 30,
+        "projects": false,
+        "oldPrice": "493,50",
+        "newPrice": "24,90",
+        "buyLink": "https://proenem.com.br/planos/medicina-2020-plus/contratar",
+        "postLink": "https://www.proenem.com.br/enem/curso-preparatorio-medicina-enem/",
+        "description": "Com o plano Medicina ENEM 2020, você chega lá, um cursinho preparatório com 30 aulas ao vivo, redações corrigidas e comentadas, monitorias ilimitadas com resolução em vídeo, material didático completo online e muitos exercícios de fixação."
+      },
+      "provip": {
+        "title": "ProVip",
+        "access": "12 meses",
+        "essay": 4,
+        "class": "todos as turmas",
+        "exam": 10,
+        "liveClass": 50,
+        "projects": true,
+        "oldPrice": "544,44",
+        "newPrice": "29,90",
+        "buyLink": "https://proenem.com.br/planos/pro-vip/contratar",
+        "postLink": "https://www.proenem.com.br/enem/curso-preparatorio-enem-vestibulares/",
+        "description": "Com o plano ProVip, você chega lá, um cursinho preparatório com 50 aulas ao vivo, redações corrigidas e comentadas, monitorias ilimitadas com resolução em vídeo, material didático completo online e muitos exercícios de fixação."
+      }
+    }
+  }
